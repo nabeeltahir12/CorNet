@@ -2,4 +2,4 @@
 ![](model.png)
 
 # CorNet Parameters Details
-![](parameters.png)
+![](parameters.PNG)
